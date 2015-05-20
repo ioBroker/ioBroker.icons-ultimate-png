@@ -1,0 +1,39 @@
+{
+  "name": "iobroker.icons-ultimate-png",
+  "description": "Ultimate icon set for visualisation as PNG.",
+  "version": "0.1.0",
+  "author": "bluefox <bluefox@ccu.io>",
+  "contributors": [
+    "bluefox <bluefox@ccu.io>"
+  ],
+  "homepage": "https://github.com/ioBroker/ioBroker.icons-ultimate-png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ioBroker/ioBroker.icons-ultimate-png"
+  },
+  "licenses": [
+    {
+      "type": "CC BY",
+      "url": "https://github.com/ioBroker/ioBroker.icons-ultimate-png/blob/master/LICENSE"
+    }
+  ],
+  "keywords": [
+    "ioBroker",
+    "icons",
+    "material design",
+	"home automation"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "grunt": "~0.4.4"
+  },
+  "bugs": {
+    "url": "https://github.com/ioBroker/ioBroker.icons-ultimate-png/issues"
+  },
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
+}
