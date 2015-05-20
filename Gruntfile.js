@@ -53,9 +53,6 @@ module.exports = function (grunt) {
         var inLine = 10;
         var cur = 0;
 
-
-
-
         for (var i = 1; i < 1001; i++) {
             if (cur && (!(cur % inLine))) {
                 html += htmlLineImg + '</tr>';
@@ -64,8 +61,8 @@ module.exports = function (grunt) {
                 htmlLineName = '<tr>';
                 cur = 0;
             }
-            //readme += '![' + dir[i] + '](www/' + dir[i] + ')\n';
-            readme += '![' + i + '.png](' + prefix + i + '.png)\n';
+            readme += '![' + i + '.png](www/' + i + '.png)\n';
+            //readme += '![' + i + '.png](' + prefix + i + '.png)\n';
 
             htmlLineImg  += '<td style="text-align: center"><img src="' + i + '.png" width="64" height="64"></td>\n';
             htmlLineName += '<td style="text-align: center">' + i + '.png</td>\n';
