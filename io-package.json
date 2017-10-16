@@ -1,9 +1,9 @@
 {
     "common": {
-        "name":         "icons-ultimate-png",
-        "version":      "0.1.1",
-        "title":        "Ultimate icon set for visualisation as PNG",
-        "desc":         {
+        "name": "icons-ultimate-png",
+        "version": "0.1.1",
+        "title": "Ultimate icon set for visualisation as PNG",
+        "desc": {
             "en": "Ultimate icon set for visualisation as PNG.",
             "de": "Bildersatz für die Visualisierung als PNG",
             "ru": "Набор иконок для визуализации дома в PNG"
@@ -11,24 +11,27 @@
         "authors": [
             "bluefox <bluefox@ccu.io>"
         ],
-        "platform":     "javascript/Node.js",
-        "icon":         "icons-ultimate-png.png",
-        "mode":         "none",
-        "keywords":     ["icons", "material design", "ioBroker"],
-        "extIcon":      "https://raw.githubusercontent.com/ioBroker/ioBroker.icons-ultimate-png/master/admin/icons-ultimate-png.png",
-        "readme":       "https://github.com/ioBroker/ioBroker.icons-ultimate-png/blob/master/README.md",
-        "loglevel":     "info",
-        "dependencies": ["web"],
-        "enabled":      true,
-        "onlyWWW":      true,
-        "singleton":    true,
-        "localLink":    "%web_protocol%://%ip%:%web_port%/icons-ultimate-png/index.html",
-		"type":         "vis",
-        "license":      "CC-BY"
+        "platform": "javascript/Node.js",
+        "icon": "icons-ultimate-png.png",
+        "mode": "none",
+        "keywords": [
+            "icons",
+            "material design",
+            "ioBroker"
+        ],
+        "extIcon": "https://raw.githubusercontent.com/ioBroker/ioBroker.icons-ultimate-png/master/admin/icons-ultimate-png.png",
+        "readme": "https://github.com/ioBroker/ioBroker.icons-ultimate-png/blob/master/README.md",
+        "loglevel": "info",
+        "dependencies": [
+            "web"
+        ],
+        "enabled": true,
+        "onlyWWW": true,
+        "singleton": true,
+        "localLink": "%web_protocol%://%ip%:%web_port%/icons-ultimate-png/index.html",
+        "type": "visualization-icons",
+        "license": "CC-BY"
     },
-    "native": {
-
-    },
-    "objects": [
-    ]
+    "native": {},
+    "objects": []
 }
