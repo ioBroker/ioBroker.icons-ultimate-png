@@ -8,8 +8,15 @@
             "de": "Bildersatz für die Visualisierung als PNG",
             "ru": "Набор иконок для визуализации дома в PNG"
         },
+        "news": {
+            "0.1.1": {
+                "en": "change adapter type",
+                "de": "Adaptertyp ist geändert",
+                "ru": "Изменён тип драйвера"
+            }
+        }
         "authors": [
-            "bluefox <bluefox@ccu.io>"
+            "bluefox <dogafox@gmail.com>"
         ],
         "platform": "javascript/Node.js",
         "icon": "icons-ultimate-png.png",
