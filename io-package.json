@@ -1,7 +1,7 @@
 {
     "common": {
         "name": "icons-ultimate-png",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "title": "Ultimate icon set for visualisation as PNG",
         "desc": {
             "en": "Ultimate icon set for visualisation as PNG.",
@@ -9,12 +9,12 @@
             "ru": "Набор иконок для визуализации дома в PNG"
         },
         "news": {
-            "1.0.0": {
+            "1.0.1": {
                 "en": "change adapter type",
                 "de": "Adaptertyp ist geändert",
                 "ru": "Изменён тип драйвера"
             }
-        }
+        },
         "authors": [
             "bluefox <dogafox@gmail.com>"
         ],
