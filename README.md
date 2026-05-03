@@ -16,5 +16,4 @@ You can check all icons [here](ICONLIST.md).
 ### 0.1.0 (2015-05-20)
 * (bluefox) initial commit
 
-
-
+[Older changelogs can be found there](CHANGELOG_OLD.md)
