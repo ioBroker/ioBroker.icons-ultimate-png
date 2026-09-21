@@ -38,7 +38,10 @@
         "singleton": true,
         "localLink": "%web_protocol%://%ip%:%web_port%/icons-ultimate-png/index.html",
         "type": "visualization-icons",
-        "license": "CC-BY"
+        "licenseInformation": {
+            "type": "free",
+            "license": "CC-BY"
+        }
     },
     "native": {},
     "objects": []
