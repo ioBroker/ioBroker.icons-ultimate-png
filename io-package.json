@@ -23,8 +23,7 @@
         "mode": "none",
         "keywords": [
             "icons",
-            "material design",
-            "ioBroker"
+            "material design"
         ],
         "extIcon": "https://raw.githubusercontent.com/ioBroker/ioBroker.icons-ultimate-png/master/admin/icons-ultimate-png.png",
         "readme": "https://github.com/ioBroker/ioBroker.icons-ultimate-png/blob/master/README.md",
